@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa20ee99-626d-4a6e-a544-e39d94a82061" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FavoritesManager">
+    <favorites_list name="offer" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1Y0Zkyqv1eqO3HR4WvWYv2Z5FzC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="242" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="243" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="242" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.Code64maxInWindows">
+    <configuration name="Code43LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code43LeftRotateString" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code46LastRemaining_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code46LastRemaining_Solution" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code49StrToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code49StrToInt" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code53isNumeric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code53isNumeric" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code64maxInWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code64maxInWindows" />
+      <module name="offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lixuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Code64maxInWindows" />
+        <item itemvalue="Application.Code53isNumeric" />
+        <item itemvalue="Application.Code49StrToInt" />
+        <item itemvalue="Application.Code46LastRemaining_Solution" />
+        <item itemvalue="Application.Code43LeftRotateString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\12554\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\IdeaProjects\offer" />
+          <option name="myCopyRoot" value="D:\IdeaProjects\offer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\IdeaProjects\offer" />
+          <option name="myCopyRoot" value="D:\IdeaProjects\offer" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa20ee99-626d-4a6e-a544-e39d94a82061" name="Default Changelist" comment="" />
+      <created>1582081618974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582081618974</updated>
+      <workItem from="1582081623145" duration="6500000" />
+      <workItem from="1582093228133" duration="3463000" />
+      <workItem from="1582116797924" duration="28000" />
+      <workItem from="1582168763011" duration="6590000" />
+      <workItem from="1582252335345" duration="11575000" />
+      <workItem from="1582289129357" duration="1550000" />
+      <workItem from="1582340198400" duration="9598000" />
+      <workItem from="1582424946308" duration="8860000" />
+      <workItem from="1582689373974" duration="9785000" />
+      <workItem from="1582950051380" duration="9666000" />
+      <workItem from="1583031131808" duration="13197000" />
+      <workItem from="1583238543952" duration="6317000" />
+      <workItem from="1583288411262" duration="11470000" />
+      <workItem from="1583377489092" duration="11720000" />
+      <workItem from="1583415555431" duration="1341000" />
+      <workItem from="1583459805726" duration="16073000" />
+      <workItem from="1583550303440" duration="5401000" />
+      <workItem from="1583580534850" duration="8751000" />
+      <workItem from="1583640472699" duration="2819000" />
+      <workItem from="1583647678804" duration="8663000" />
+      <workItem from="1583819712168" duration="6842000" />
+      <workItem from="1583847776852" duration="2187000" />
+      <workItem from="1584773791984" duration="7463000" />
+      <workItem from="1584792047151" duration="4731000" />
+    </task>
+    <task id="LOCAL-00001" summary="offer">
+      <created>1582289957573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582289957573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code16Merge">
+      <created>1582342780618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582342780618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Code17HasSubtree">
+      <created>1582344531989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582344531989</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code18Mirror">
+      <created>1582346067706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582346067706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code19PrintMatrix">
+      <created>1582355018821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582355018822</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Code20Stack">
+      <created>1582428221566</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582428221566</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Code21IsPopOrder">
+      <created>1582433451739</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582433451739</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code22PrintFromTopToBottom">
+      <created>1582434098588</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582434098588</updated>
+    </task>
+    <task id="LOCAL-00009" summary="23,24,25,26">
+      <created>1582702554285</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582702554286</updated>
+    </task>
+    <task id="LOCAL-00010" summary="27,28,29">
+      <created>1582971236130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582971236130</updated>
+    </task>
+    <task id="LOCAL-00011" summary="30">
+      <created>1582989744371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582989744371</updated>
+    </task>
+    <task id="LOCAL-00012" summary="31,32,33">
+      <created>1583041375799</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583041375799</updated>
+    </task>
+    <task id="LOCAL-00013" summary="34,35,36">
+      <created>1583066254864</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1583066254865</updated>
+    </task>
+    <task id="LOCAL-00014" summary="37,38,39,40">
+      <created>1583245257144</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583245257144</updated>
+    </task>
+    <task id="LOCAL-00015" summary="41,42,43,44,45">
+      <created>1583302208431</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583302208431</updated>
+    </task>
+    <task id="LOCAL-00016" summary="46,47,48,49,50">
+      <created>1583395423225</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583395423226</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Code51multiply">
+      <created>1583416897434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1583416897434</updated>
+    </task>
+    <task id="LOCAL-00018" summary="52-56">
+      <created>1583480501571</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583480501571</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Code57isSymmetrical">
+      <created>1583482007860</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1583482007860</updated>
+    </task>
+    <task id="LOCAL-00020" summary="58-60">
+      <created>1583567339861</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1583567339862</updated>
+    </task>
+    <task id="LOCAL-00021" summary="61-63">
+      <created>1583590295628</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1583590295629</updated>
+    </task>
+    <task id="LOCAL-00022" summary="全部解决-2020年3月8日16:36:04">
+      <created>1583656575760</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1583656575760</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update41">
+      <created>1583849970614</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1583849970614</updated>
+    </task>
+    <task id="LOCAL-00024" summary="offer">
+      <created>1584774959320</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1584774959321</updated>
+    </task>
+    <task id="LOCAL-00025" summary="2020年3月21日16:29:12">
+      <created>1584779357445</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1584779357445</updated>
+    </task>
+    <task id="LOCAL-00026" summary="2020年3月21日17:11:48">
+      <created>1584781913583</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1584781913583</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code16Merge" />
+    <MESSAGE value="Code17HasSubtree" />
+    <MESSAGE value="Code18Mirror" />
+    <MESSAGE value="Code19PrintMatrix" />
+    <MESSAGE value="Code20Stack" />
+    <MESSAGE value="Code21IsPopOrder" />
+    <MESSAGE value="Code22PrintFromTopToBottom" />
+    <MESSAGE value="23,24,25,26" />
+    <MESSAGE value="27,28,29" />
+    <MESSAGE value="30" />
+    <MESSAGE value="31,32,33" />
+    <MESSAGE value="34,35,36" />
+    <MESSAGE value="37,38,39,40" />
+    <MESSAGE value="41,42,43,44,45" />
+    <MESSAGE value="46,47,48,49,50" />
+    <MESSAGE value="Code51multiply" />
+    <MESSAGE value="52-56" />
+    <MESSAGE value="Code57isSymmetrical" />
+    <MESSAGE value="58-60" />
+    <MESSAGE value="61-63" />
+    <MESSAGE value="全部解决-2020年3月8日16:36:04" />
+    <MESSAGE value="update41" />
+    <MESSAGE value="offer" />
+    <MESSAGE value="2020年3月21日16:29:12" />
+    <MESSAGE value="2020年3月21日17:11:48" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年3月21日17:11:48" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1583300967678">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583300967678" />
+    <state x="385" y="29" key="CommitChangelistDialog2" timestamp="1584781912624">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="385" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584781912624" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1582290069662">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1582290069662" />
+    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1584796780038">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584796780038" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1583643924653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1583643924653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1583643924653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1583643924653">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1583482010000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583482010000" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1583482010000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1583482010000" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1583482010000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1583482010000" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1583482010000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1583482010000" />
+    <state x="539" y="146" key="RollbackChangesDialog" timestamp="1583302186890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="539" y="146" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1583302186890" />
+    <state x="272" y="78" key="SettingsEditor" timestamp="1583590348252">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="272" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583590348252" />
+    <state x="599" y="305" key="VCS.EditChangelistDialog" timestamp="1582433488439">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="305" key="VCS.EditChangelistDialog/0.0.1536.864@0.0.1536.864" timestamp="1582433488439" />
+    <state x="461" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1584792082400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="461" y="261" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584792082400" />
+    <state x="184" y="55" key="new project wizard" timestamp="1582372314754">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="184" y="55" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582372314754" />
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog" timestamp="1583651474254">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="472" y="65" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1583651474254" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1583395327280">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1583395327280" />
+    <state x="432" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1584781098061">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="432" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584781098061" />
+    <state x="599" y="227" key="svn.repositoryBrowser" timestamp="1582289584393">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="227" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1582289584393" />
+    <state x="575" y="340" key="svn.upgradeDialog" timestamp="1582289586009">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="575" y="340" key="svn.upgradeDialog/0.0.1536.864@0.0.1536.864" timestamp="1582289586009" />
+    <state x="658" y="221" key="svn4idea.import.options" timestamp="1582289354178">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="658" y="221" key="svn4idea.import.options/0.0.1536.864@0.0.1536.864" timestamp="1582289354178" />
+  </component>
+</project>
