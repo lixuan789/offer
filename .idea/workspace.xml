@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa20ee99-626d-4a6e-a544-e39d94a82061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lixuan/Code68GetNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lixuan/Code02ReplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lixuan/Code02ReplaceSpace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,9 +13,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
-  <component name="FavoritesManager">
-    <favorites_list name="offer" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,11 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\maven_repository" />
-        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -68,9 +71,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.Code64maxInWindows">
-    <configuration name="Code43LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lixuan.Code43LeftRotateString" />
+  <component name="RunManager" selected="Application.Code02ReplaceSpace">
+    <configuration name="Code02ReplaceSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lixuan.Code02ReplaceSpace" />
       <module name="offer" />
       <extension name="coverage">
         <pattern>
@@ -136,47 +139,17 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code02ReplaceSpace" />
         <item itemvalue="Application.Code64maxInWindows" />
         <item itemvalue="Application.Code53isNumeric" />
         <item itemvalue="Application.Code49StrToInt" />
         <item itemvalue="Application.Code46LastRemaining_Solution" />
-        <item itemvalue="Application.Code43LeftRotateString" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>C:\Users\12554\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
-  </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\IdeaProjects\offer" />
-          <option name="myCopyRoot" value="D:\IdeaProjects\offer" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\IdeaProjects\offer" />
-          <option name="myCopyRoot" value="D:\IdeaProjects\offer" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -209,6 +182,11 @@
       <workItem from="1583847776852" duration="2187000" />
       <workItem from="1584773791984" duration="7463000" />
       <workItem from="1584792047151" duration="4731000" />
+      <workItem from="1587459559394" duration="3048000" />
+      <workItem from="1587466545204" duration="3000" />
+      <workItem from="1587627548034" duration="86000" />
+      <workItem from="1587627663854" duration="5365000" />
+      <workItem from="1587643231233" duration="7725000" />
     </task>
     <task id="LOCAL-00001" summary="offer">
       <created>1582289957573</created>
@@ -396,7 +374,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code16Merge" />
@@ -439,26 +417,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1582290069662" />
-    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1584796780038">
+    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1587459609312">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584796780038" />
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1583643924653">
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587459609312" />
+    <state x="640" y="329" key="Github.ShareDialog" timestamp="1587459620584">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
-    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1583643924653">
+    <state x="640" y="329" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1587459620584" />
+    <state x="540" y="125" key="Github.UntrackedFilesDialog" timestamp="1587459630134">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
-    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1583643924653">
+    <state x="540" y="125" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587459630134" />
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom" timestamp="1587465549133">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
-    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1583643924653">
+    <state width="1493" height="169" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587465549133" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center" timestamp="1587465549133">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583643924653" />
+    <state width="1493" height="169" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587465549133" />
+    <state width="1493" height="169" key="GridCell.Tab.0.left" timestamp="1587465549132">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587465549132" />
+    <state width="1493" height="169" key="GridCell.Tab.0.right" timestamp="1587465549133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="169" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587465549133" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1583482010000">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
